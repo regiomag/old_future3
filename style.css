@@ -41,7 +41,7 @@ a:hover {
 }
 
 #banner {
-  background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url('https://images.unsplash.com/photo-1441716844725-09cedc13a4e7?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=d223156a186039f8c0f0a626d5b7e8eb');
+  /*background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url('images/home.jpeg');*/
   background-size: cover;
   height: 100vh;
   padding: 150px 0;
@@ -81,9 +81,5 @@ a:hover {
   font-size: 30px;
 }
 
-.card {
-  padding: 15px;
-
-}
 
 
